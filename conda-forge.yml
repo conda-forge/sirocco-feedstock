@@ -1,7 +1,9 @@
 build_platform:
-  linux_aarch64: linux_64
+  #linux_aarch64: linux_64
   osx_arm64: osx_64
 github:
   branch_name: prueba
   tooling_branch_name: main
 conda_forge_output_validation: true
+linux_aarch64:
+  enable: True
