@@ -5,7 +5,7 @@ Home: https://github.com/miguelmarco/SIROCCO2
 
 Package license: GPL-3.0-only
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sirocco-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sirocco-feedstock/blob/prueba/LICENSE.txt)
 
 Summary: sirocco port to C++ and MPFR
 
@@ -17,15 +17,22 @@ Current build status
 ====================
 
 
-<table>
+<table><tr>
+    <td>Travis</td>
+    <td>
+      <a href="https://app.travis-ci.com/conda-forge/sirocco-feedstock">
+        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/sirocco-feedstock/prueba.svg?label=Linux">
+      </a>
+    </td>
+  </tr>
     
   <tr>
     <td>Azure</td>
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16872&branchName=main">
-            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sirocco-feedstock?branchName=main">
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16872&branchName=prueba">
+            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sirocco-feedstock?branchName=prueba">
           </a>
         </summary>
         <table>
@@ -33,15 +40,22 @@ Current build status
           <tbody><tr>
               <td>linux_64</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16872&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sirocco-feedstock?branchName=main&jobName=linux&configuration=linux_64_" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16872&branchName=prueba">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sirocco-feedstock?branchName=prueba&jobName=linux&configuration=linux_64_" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16872&branchName=prueba">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sirocco-feedstock?branchName=prueba&jobName=linux&configuration=linux_aarch64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16872&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sirocco-feedstock?branchName=main&jobName=osx&configuration=osx_64_" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16872&branchName=prueba">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/sirocco-feedstock?branchName=prueba&jobName=osx&configuration=osx_64_" alt="variant">
                 </a>
               </td>
             </tr>
