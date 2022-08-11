@@ -19,11 +19,8 @@ requirements:
   build:
     - {{ compiler('c') }}
     - {{ compiler('cxx') }}
-    - autoconf
-    - automake
-    - libtool
-    - m4
     - make
+    - gnuconfig  # [unix]
   host:
     - gmp
     - mpfr
