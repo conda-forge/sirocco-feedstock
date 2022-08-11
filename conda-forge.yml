@@ -1,5 +1,5 @@
 github:
-  branch_name: prueba
+  branch_name: main
   tooling_branch_name: main
 provider:
   osx_64: default
