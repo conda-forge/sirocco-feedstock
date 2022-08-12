@@ -37,7 +37,7 @@ about:
   license_family: GPL
   license_file: LICENSE
   summary: sirocco port to C++ and MPFR
-  dev_url: https://github.com/miguelmarco/libbraiding
+  dev_url: https://github.com/miguelmarco/SIROCCO2
   description: This is a library for computing homotopy continuation ...
 
 extra:
