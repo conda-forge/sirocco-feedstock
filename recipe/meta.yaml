@@ -25,7 +25,6 @@ requirements:
   host:
     - gmp
     - mpfr
-  run:
 
 test:
   commands:
