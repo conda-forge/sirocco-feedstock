@@ -196,4 +196,5 @@ Feedstock Maintainers
 
 * [@enriqueartal](https://github.com/enriqueartal/)
 * [@isuruf](https://github.com/isuruf/)
+* [@saraedum](https://github.com/saraedum/)
 
